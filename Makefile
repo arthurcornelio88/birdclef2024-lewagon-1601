@@ -12,3 +12,4 @@ create_environment:
 	pyenv local birdclef2024-lewagon-1601
 	pip install --upgrade pip
 	pip install -r requirements.txt
+	pip install -e .
