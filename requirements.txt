@@ -105,6 +105,7 @@ soupsieve==2.5
 soxr==0.3.7
 stack-data==0.6.3
 tenacity==8.2.3
+tensorflow
 terminado==0.18.1
 threadpoolctl==3.4.0
 tinycss2==1.2.1
